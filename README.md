@@ -10,4 +10,4 @@ A mod born out of love for one of the best RTS's of our time. Composed primarily
 
 Credits below WIP as things are still being added
 
-![creditsbeta](https://user-images.githubusercontent.com/72227841/173373043-4755a163-2c17-4417-b504-e781bf27f590.png)
+            ![creditsbeta](https://user-images.githubusercontent.com/72227841/173373043-4755a163-2c17-4417-b504-e781bf27f590.png)
