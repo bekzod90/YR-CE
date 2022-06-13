@@ -11,3 +11,4 @@ A mod born out of love for one of the best RTS's of our time. Composed primarily
 Credits below WIP as things are still being added
 
 
+[Yuri's Revenge CE.pdf](https://github.com/DOOMGUY2K/YR-CE/files/8891862/Yuri.s.Revenge.CE.pdf)
